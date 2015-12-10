@@ -1,0 +1,41 @@
+﻿<Window x:Class="DailyAudioPlayer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DailyAudioPlayer"
+        xmlns:sys="clr-namespace:System;assembly=mscorlib"
+        mc:Ignorable="d"
+        Title="Daily Audio Player" Height="250" Width="600">
+
+    <Window.Resources>
+        <ObjectDataProvider x:Key="today" ObjectType="{x:Type sys:DateTime}"/>
+        <Storyboard x:Key="sb" RepeatBehavior="Forever">
+            <DoubleAnimation Storyboard.TargetName="myrect" 
+          Storyboard.TargetProperty="Width" From="1" To="350" 
+          Duration="0:0:1" BeginTime="0:0:0"/>
+            <DoubleAnimation Storyboard.TargetName="myrect" 
+          Storyboard.TargetProperty="Height" From="1" To="250" 
+          Duration="0:0:1" BeginTime="0:0:1"/>
+            <DoubleAnimation Storyboard.TargetName="myrect" 
+          Storyboard.TargetProperty="Height" From="250" To="1" 
+          Duration="0:0:1" BeginTime="0:0:2"/>
+            <DoubleAnimation Storyboard.TargetName="myrect" 
+          Storyboard.TargetProperty="Width" From="350" To="1" 
+          Duration="0:0:1" BeginTime="0:0:3"/>
+        </Storyboard>
+    </Window.Resources>
+    <Grid>
+        <StackPanel VerticalAlignment="Top" Margin="0,0,0,0">
+            <StackPanel.Background>
+                <SolidColorBrush Color="White" Opacity=".95"/>
+            </StackPanel.Background>
+            <Label Content="{Binding Source={StaticResource today}, Path=Now}" ContentStringFormat=" {0:D}"
+                   HorizontalContentAlignment="Center" Padding="5"/>
+        </StackPanel>
+        <local:Control x:Name="controls"/>
+        <Grid.Background>
+            <ImageBrush ImageSource="/Images/background.jpg" Stretch="UniformToFill" />
+        </Grid.Background>
+    </Grid>
+</Window>
