@@ -20,7 +20,7 @@ namespace DailyAudioPlayer
     class AudioAppManager : MainWindow
     {
 
-        public Label lblStatus { get; set; }
+        //public Label lblStatus { get; set; }
 
         public string openFile(MediaPlayer mediaPlayer)
         {
