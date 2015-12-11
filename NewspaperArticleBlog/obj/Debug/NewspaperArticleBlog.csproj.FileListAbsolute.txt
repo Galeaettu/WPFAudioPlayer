@@ -10,3 +10,10 @@ C:\Users\Chris\Dropbox\MCAST\Second Year\First Semester\HCI\Assignment\AudioPlay
 C:\Users\Chris\Dropbox\MCAST\Second Year\First Semester\HCI\Assignment\AudioPlayer\DailyAudioPlayer\NewspaperArticleBlog\obj\Debug\NewspaperArticleBlog.csproj.GenerateResource.Cache
 C:\Users\Chris\Dropbox\MCAST\Second Year\First Semester\HCI\Assignment\AudioPlayer\DailyAudioPlayer\NewspaperArticleBlog\obj\Debug\NewspaperArticleBlog.exe
 C:\Users\Chris\Dropbox\MCAST\Second Year\First Semester\HCI\Assignment\AudioPlayer\DailyAudioPlayer\NewspaperArticleBlog\obj\Debug\NewspaperArticleBlog.pdb
+C:\Users\Chris\Dropbox\MCAST\Second Year\First Semester\HCI\Assignment\AudioPlayer\DailyAudioPlayer\NewspaperArticleBlog\obj\Debug\NewspaperArticleBlog.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Dropbox\MCAST\Second Year\First Semester\HCI\Assignment\AudioPlayer\DailyAudioPlayer\NewspaperArticleBlog\obj\Debug\Toolbar.baml
+C:\Users\Chris\Dropbox\MCAST\Second Year\First Semester\HCI\Assignment\AudioPlayer\DailyAudioPlayer\NewspaperArticleBlog\obj\Debug\Toolbar.g.cs
+C:\Users\Chris\Dropbox\MCAST\Second Year\First Semester\HCI\Assignment\AudioPlayer\DailyAudioPlayer\NewspaperArticleBlog\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Chris\Dropbox\MCAST\Second Year\First Semester\HCI\Assignment\AudioPlayer\DailyAudioPlayer\NewspaperArticleBlog\obj\Debug\NewspaperArticleBlog_MarkupCompile.lref
+C:\Users\Chris\Dropbox\MCAST\Second Year\First Semester\HCI\Assignment\AudioPlayer\DailyAudioPlayer\NewspaperArticleBlog\obj\Debug\Image.baml
+C:\Users\Chris\Dropbox\MCAST\Second Year\First Semester\HCI\Assignment\AudioPlayer\DailyAudioPlayer\NewspaperArticleBlog\obj\Debug\Image.g.cs
