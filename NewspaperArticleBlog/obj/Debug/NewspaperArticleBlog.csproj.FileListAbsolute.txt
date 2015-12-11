@@ -1,0 +1,12 @@
+C:\Users\Chris\Dropbox\MCAST\Second Year\First Semester\HCI\Assignment\AudioPlayer\DailyAudioPlayer\NewspaperArticleBlog\bin\Debug\NewspaperArticleBlog.exe.config
+C:\Users\Chris\Dropbox\MCAST\Second Year\First Semester\HCI\Assignment\AudioPlayer\DailyAudioPlayer\NewspaperArticleBlog\bin\Debug\NewspaperArticleBlog.exe
+C:\Users\Chris\Dropbox\MCAST\Second Year\First Semester\HCI\Assignment\AudioPlayer\DailyAudioPlayer\NewspaperArticleBlog\bin\Debug\NewspaperArticleBlog.pdb
+C:\Users\Chris\Dropbox\MCAST\Second Year\First Semester\HCI\Assignment\AudioPlayer\DailyAudioPlayer\NewspaperArticleBlog\obj\Debug\MainWindow.baml
+C:\Users\Chris\Dropbox\MCAST\Second Year\First Semester\HCI\Assignment\AudioPlayer\DailyAudioPlayer\NewspaperArticleBlog\obj\Debug\MainWindow.g.cs
+C:\Users\Chris\Dropbox\MCAST\Second Year\First Semester\HCI\Assignment\AudioPlayer\DailyAudioPlayer\NewspaperArticleBlog\obj\Debug\App.g.cs
+C:\Users\Chris\Dropbox\MCAST\Second Year\First Semester\HCI\Assignment\AudioPlayer\DailyAudioPlayer\NewspaperArticleBlog\obj\Debug\NewspaperArticleBlog_MarkupCompile.cache
+C:\Users\Chris\Dropbox\MCAST\Second Year\First Semester\HCI\Assignment\AudioPlayer\DailyAudioPlayer\NewspaperArticleBlog\obj\Debug\NewspaperArticleBlog.g.resources
+C:\Users\Chris\Dropbox\MCAST\Second Year\First Semester\HCI\Assignment\AudioPlayer\DailyAudioPlayer\NewspaperArticleBlog\obj\Debug\NewspaperArticleBlog.Properties.Resources.resources
+C:\Users\Chris\Dropbox\MCAST\Second Year\First Semester\HCI\Assignment\AudioPlayer\DailyAudioPlayer\NewspaperArticleBlog\obj\Debug\NewspaperArticleBlog.csproj.GenerateResource.Cache
+C:\Users\Chris\Dropbox\MCAST\Second Year\First Semester\HCI\Assignment\AudioPlayer\DailyAudioPlayer\NewspaperArticleBlog\obj\Debug\NewspaperArticleBlog.exe
+C:\Users\Chris\Dropbox\MCAST\Second Year\First Semester\HCI\Assignment\AudioPlayer\DailyAudioPlayer\NewspaperArticleBlog\obj\Debug\NewspaperArticleBlog.pdb
