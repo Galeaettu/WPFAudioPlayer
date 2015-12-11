@@ -35,14 +35,6 @@ namespace DailyAudioPlayer
 
         public void btnOpenAudioFile_Click(object sender, RoutedEventArgs e)
         {
-            //audioApp.OpenFile(mediaPlayer);
-            //OpenFileDialog openFileDialog = new OpenFileDialog();
-            //openFileDialog.Filter = "MP3 files (*.mp3)|*.mp3|All files (*.*)|*.*";
-            //if (openFileDialog.ShowDialog() == true)
-            //{
-            //    mediaPlayer.Open(new Uri(openFileDialog.FileName));
-            //    mediaPlayer.Play();
-            //    songName = openFileDialog.FileName;
             DailyAudioPlayer.AudioAppManager aM = new AudioAppManager();
 
                 songName = aM.openFile(mediaPlayer);
@@ -56,7 +48,6 @@ namespace DailyAudioPlayer
 
                 lblBigStatus.Visibility = Visibility.Visible;
                 status = true;
-            //}
         }
 
         public void btnPlayPause_Click(object sender, RoutedEventArgs e)

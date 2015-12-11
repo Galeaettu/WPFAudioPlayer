@@ -16,21 +16,10 @@
                                 <Storyboard RepeatBehavior="Forever">
                                     <DoubleAnimation Storyboard.TargetName="lblBigStatus"  To="35" Storyboard.TargetProperty="FontSize" Duration="00:00:1"/>
                                     <DoubleAnimation Storyboard.TargetName="lblBigStatus"  To="12" Storyboard.TargetProperty="FontSize" Duration="00:00:1"/>
-                                    <!--<DoubleAnimation Storyboard.TargetName="lblBigStatus"  To="20" Storyboard.TargetProperty="FontSize" Duration="00:00:01"/>-->
                                 </Storyboard>
                             </BeginStoryboard>
                         </EventTrigger.Actions>
                     </EventTrigger>
-                    <!--<EventTrigger RoutedEvent="MouseLeave">
-                        <EventTrigger.Actions>
-                            <BeginStoryboard>
-                                <Storyboard Duration="00:00:10">
-                                    <DoubleAnimation Storyboard.TargetName="lblBigStatus"  To="12" Storyboard.TargetProperty="FontSize"/>
-                                </Storyboard>
-                            </BeginStoryboard>
-                        </EventTrigger.Actions>
-                    </EventTrigger>-->
-
                 </Label.Triggers>
             </Label>
         </StackPanel>
@@ -116,6 +105,5 @@
         <StackPanel VerticalAlignment="Bottom" HorizontalAlignment="Right" Margin="10, 12">
             <Label x:Name="lblTimer" Content="00:00"/>
         </StackPanel>
-
     </Grid>
 </UserControl>
