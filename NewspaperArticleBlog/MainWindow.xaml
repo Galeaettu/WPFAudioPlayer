@@ -58,5 +58,35 @@
         <Button Grid.Row="1"
                 Grid.Column="3"
                 Content="1,3"/>-->
+
+        <Grid Grid.Column="2"
+                Grid.ColumnSpan="2">
+            <!--<ListView Name="comments" ScrollViewer.HorizontalScrollBarVisibility="Hidden">
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn Header="Timestamp" Width="65" DisplayMemberBinding="{Binding Name}" />
+                        <GridViewColumn Header="Username" Width="65" DisplayMemberBinding="{Binding Age}" />
+                        <GridViewColumn Header="Comment" Width="150" DisplayMemberBinding="{Binding Comment}" />
+                    </GridView>
+                </ListView.View>
+            </ListView>-->
+
+            <ListView Name="comments" ItemsSource="{Binding}" 
+         HorizontalContentAlignment="Stretch"
+         ScrollViewer.HorizontalScrollBarVisibility="Disabled">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <DockPanel >
+                            <TextBlock DockPanel.Dock="Right" Margin="2,0,2,0" Text="{Binding Path=Name}" VerticalAlignment="Center" HorizontalAlignment="Right"  FontSize="14" />
+                            <TextBlock DockPanel.Dock="Right" Margin="2,0,2,0" Text="{Binding Path=Age}" FontWeight="Bold" VerticalAlignment="Center" HorizontalAlignment="Right" FontSize="14" />
+                            <TextBlock TextWrapping="Wrap"  Margin="2,0,2,0" Text="{Binding Path=Comment}" VerticalAlignment="Center"  FontSize="14"  />
+                        </DockPanel>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+
+        </Grid>
+        
+
     </Grid>
 </Window>

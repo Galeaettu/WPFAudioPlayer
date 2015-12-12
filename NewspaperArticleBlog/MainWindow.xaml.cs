@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -25,14 +26,24 @@ namespace NewspaperArticleBlog
         public MainWindow()
         {
             InitializeComponent();
+            List<User> items = new List<User>();
+            items.Add(new User() { Name = "John Doe",Comment = "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa", Age = 22,  });
+            items.Add(new User() { Name = "Jane Doe", Comment = "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa", Age = 6, });
+            items.Add(new User() { Name = "Sammy Doe", Comment = "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa", Age = 42, });
+            items.Add(new User() { Name = "Donna Doe", Comment = "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa", Age = 15, });
+            comments.ItemsSource = items;
 
-            //_documentManager = new DocumentManager(body);
-
-            //if (_documentManager.OpenDocument())
-            //{
-            //    status.Text = "Document Loaded";
-            //}
-
+            CollectionView view = (CollectionView)CollectionViewSource.GetDefaultView(comments.ItemsSource);
+            view.SortDescriptions.Add(new SortDescription("Age", ListSortDirection.Ascending));
         }
+    }
+
+    public class User
+    {
+        public string Name { get; set; }
+
+        public int Age { get; set; }
+
+        public string Comment { get; set; }
     }
 }

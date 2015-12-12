@@ -27,6 +27,7 @@ namespace NewspaperArticleBlog
         public bool OpenDocument()
         {
             OpenFileDialog dlg = new OpenFileDialog();
+            dlg.Filter = "Rich Text Format files (*.rtf)|*.rtf|Text files (*.txt)|*.txt|All files (*.*)|*.*";
 
             if (dlg.ShowDialog() == true)
             {
@@ -36,8 +37,6 @@ namespace NewspaperArticleBlog
                 {
                     TextRange range = new TextRange(_textBox.Document.ContentStart, _textBox.Document.ContentEnd);
                     range.Load(stream, DataFormats.Rtf);
-
-
                 }
 
                 return true;
