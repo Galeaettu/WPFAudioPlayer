@@ -52,6 +52,8 @@ namespace NewspaperArticleBlog
 
                 CollectionView view = (CollectionView)CollectionViewSource.GetDefaultView(comments.ItemsSource);
                 view.SortDescriptions.Add(new SortDescription("Timestamp", ListSortDirection.Descending));
+                Username.Text = null;
+                Comment.Text = null;
             }
             else
             {
@@ -59,6 +61,8 @@ namespace NewspaperArticleBlog
 
                 CollectionView view = (CollectionView)CollectionViewSource.GetDefaultView(comments.ItemsSource);
                 view.SortDescriptions.Add(new SortDescription("Timestamp", ListSortDirection.Descending));
+                Username.Text = null;
+                Comment.Text = null;
             }          
             
         }
