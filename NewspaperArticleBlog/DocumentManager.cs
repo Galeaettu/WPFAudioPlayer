@@ -47,13 +47,6 @@ namespace NewspaperArticleBlog
                 return false;
         }
 
-        public void ApplyToSelection(DependencyProperty property, object value)
-        {
-            if (value != null)
-            {
-                _textBox.Selection.ApplyPropertyValue(property, value);
-            }
-        }
 
         public bool SaveDocumentAs()
         {

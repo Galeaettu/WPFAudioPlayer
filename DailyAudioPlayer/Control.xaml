@@ -23,7 +23,7 @@
                 </Label.Triggers>
             </Label>
         </StackPanel>
-        
+
         <StackPanel Margin="10" VerticalAlignment="Center" Orientation="Horizontal">
             <StackPanel.Resources>
                 <Style x:Key="RoundedButtonStyle1" TargetType="{x:Type Button}">
@@ -56,7 +56,7 @@
                     </Style.Triggers>
                 </Style>
             </StackPanel.Resources>
-                <Button Width="50" Height="50" Name="btnOpen" Content="Open" Click="btnOpenAudioFile_Click" Style="{StaticResource RoundedButtonStyle1}"></Button>
+            <Button Width="50" Height="50" Name="btnOpen" Content="Open" Click="btnOpenAudioFile_Click" Style="{StaticResource RoundedButtonStyle1}"></Button>
         </StackPanel>
         <StackPanel  Margin="10" HorizontalAlignment="Right" VerticalAlignment="Center" Orientation="Horizontal">
             <StackPanel.Resources>
@@ -105,5 +105,15 @@
         <StackPanel VerticalAlignment="Bottom" HorizontalAlignment="Right" Margin="10, 12">
             <Label x:Name="lblTimer" Content="00:00"/>
         </StackPanel>
+        <Menu VerticalAlignment="Top">
+            <MenuItem Header="_File">
+                <MenuItem Header="_Open" Click="btnOpenAudioFile_Click"/>
+                <MenuItem Header="_Exit" Click="MenuItem_Click"/>
+            </MenuItem>
+            <MenuItem Header="_Playback">
+                <MenuItem Header="_Play/Pause" Click="btnPlayPause_Click"/>
+                <MenuItem Header="_Stop" Click="btnStop_Click"/>
+            </MenuItem>
+        </Menu>
     </Grid>
 </UserControl>

@@ -48,7 +48,9 @@
             <Label Content="_Comment: " Width="70"
                Target="{Binding ElementName=Comment}"/>
             <TextBox Name="Comment"
-                     TextWrapping="Wrap"/>
+                     TextWrapping="Wrap"
+                     SpellCheck.IsEnabled="True"
+                     ScrollViewer.CanContentScroll="True"/>
         </DockPanel>
         <DockPanel Grid.Row="5" Grid.ColumnSpan="2">
             <DockPanel.Resources>
@@ -89,6 +91,7 @@
                     Margin="5"
                     Width="50"
                     Click="Button_Click"
+                    ToolTip="Add Comment"
                     Style="{StaticResource RoundedButtonStyle}">               
             </Button>           
         </DockPanel>       

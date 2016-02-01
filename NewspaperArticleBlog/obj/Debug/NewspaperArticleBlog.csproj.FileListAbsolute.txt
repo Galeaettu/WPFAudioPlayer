@@ -19,3 +19,6 @@ C:\Users\Chris\Dropbox\MCAST\Second Year\First Semester\HCI\Assignment\AudioPlay
 C:\Users\Chris\Dropbox\MCAST\Second Year\First Semester\HCI\Assignment\AudioPlayer\DailyAudioPlayer\NewspaperArticleBlog\obj\Debug\Image.g.cs
 C:\Users\Chris\Dropbox\MCAST\Second Year\First Semester\HCI\Assignment\AudioPlayer\DailyAudioPlayer\NewspaperArticleBlog\obj\Debug\BlogControl.baml
 C:\Users\Chris\Dropbox\MCAST\Second Year\First Semester\HCI\Assignment\AudioPlayer\DailyAudioPlayer\NewspaperArticleBlog\obj\Debug\BlogControl.g.cs
+C:\Users\Chris\Dropbox\MCAST\Second Year\First Semester\HCI\Assignment\HCI Christian Galea 438795M\AudioPlayer\DailyAudioPlayer\NewspaperArticleBlog\bin\Debug\NewspaperArticleBlog.exe.config
+C:\Users\Chris\Dropbox\MCAST\Second Year\First Semester\HCI\Assignment\HCI Christian Galea 438795M\AudioPlayer\DailyAudioPlayer\NewspaperArticleBlog\obj\Debug\NewspaperArticleBlog.exe
+C:\Users\Chris\Dropbox\MCAST\Second Year\First Semester\HCI\Assignment\HCI Christian Galea 438795M\AudioPlayer\DailyAudioPlayer\NewspaperArticleBlog\obj\Debug\NewspaperArticleBlog.pdb

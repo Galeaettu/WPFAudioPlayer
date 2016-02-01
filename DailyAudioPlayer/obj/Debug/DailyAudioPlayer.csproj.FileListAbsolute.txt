@@ -17,7 +17,6 @@ C:\Users\Chris\Dropbox\MCAST\Second Year\First Semester\HCI\Assignment\AudioPlay
 C:\Users\Chris\Dropbox\MCAST\Second Year\First Semester\HCI\Assignment\AudioPlayer\DailyAudioPlayer\DailyAudioPlayer\obj\Debug\DailyAudioPlayer.pdb
 C:\Users\Chris\Dropbox\MCAST\Second Year\First Semester\HCI\Assignment\AudioPlayer\DailyAudioPlayer\DailyAudioPlayer\bin\Debug\DailyAudioPlayer.exe
 C:\Users\Chris\Dropbox\MCAST\Second Year\First Semester\HCI\Assignment\AudioPlayer\DailyAudioPlayer\DailyAudioPlayer\bin\Debug\DailyAudioPlayer.pdb
-C:\Users\Chris\Dropbox\MCAST\Second Year\First Semester\HCI\Assignment\AudioPlayer\DailyAudioPlayer\DailyAudioPlayer\obj\Debug\DailyAudioPlayer.csprojResolveAssemblyReference.cache
 C:\Users\Chris\Dropbox\MCAST\Second Year\First Semester\HCI\Assignment\AudioPlayer\DailyAudioPlayer\DailyAudioPlayer\obj\Debug\MainWindow.g.cs
 C:\Users\Chris\Dropbox\MCAST\Second Year\First Semester\HCI\Assignment\AudioPlayer\DailyAudioPlayer\DailyAudioPlayer\obj\Debug\App.g.cs
 C:\Users\Chris\Dropbox\MCAST\Second Year\First Semester\HCI\Assignment\AudioPlayer\DailyAudioPlayer\DailyAudioPlayer\obj\Debug\DailyAudioPlayer_MarkupCompile.cache
@@ -29,3 +28,21 @@ C:\Users\Chris\Dropbox\MCAST\Second Year\First Semester\HCI\Assignment\AudioPlay
 C:\Users\Chris\Dropbox\MCAST\Second Year\First Semester\HCI\Assignment\AudioPlayer\DailyAudioPlayer\DailyAudioPlayer\obj\Debug\Control.baml
 C:\Users\Chris\Dropbox\MCAST\Second Year\First Semester\HCI\Assignment\AudioPlayer\DailyAudioPlayer\DailyAudioPlayer\obj\Debug\Control.g.cs
 C:\Users\Chris\Dropbox\MCAST\Second Year\First Semester\HCI\Assignment\AudioPlayer\DailyAudioPlayer\DailyAudioPlayer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Chris\Dropbox\MCAST\Second Year\First Semester\HCI\Assignment\AudioPlayer\DailyAudioPlayer\DailyAudioPlayer\obj\Debug\DailyAudioPlayer.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Dropbox\MCAST\Second Year\First Semester\HCI\Assignment\HCI Christian Galea 438795M\AudioPlayer\DailyAudioPlayer\DailyAudioPlayer\bin\Debug\DailyAudioPlayer.exe.config
+C:\Users\Chris\Dropbox\MCAST\Second Year\First Semester\HCI\Assignment\HCI Christian Galea 438795M\AudioPlayer\DailyAudioPlayer\DailyAudioPlayer\obj\Debug\DailyAudioPlayer.exe
+C:\Users\Chris\Dropbox\MCAST\Second Year\First Semester\HCI\Assignment\HCI Christian Galea 438795M\AudioPlayer\DailyAudioPlayer\DailyAudioPlayer\obj\Debug\DailyAudioPlayer.pdb
+C:\Users\Chris\Dropbox\MCAST\Second Year\First Semester\HCI\Assignment\HCI Christian Galea 438795M\AudioPlayer\DailyAudioPlayer\DailyAudioPlayer\bin\Debug\DailyAudioPlayer.exe
+C:\Users\Chris\Dropbox\MCAST\Second Year\First Semester\HCI\Assignment\HCI Christian Galea 438795M\AudioPlayer\DailyAudioPlayer\DailyAudioPlayer\bin\Debug\DailyAudioPlayer.pdb
+C:\Users\Chris\Dropbox\MCAST\Second Year\First Semester\HCI\Assignment\HCI Christian Galea 438795M\AudioPlayer\DailyAudioPlayer\DailyAudioPlayer\obj\Debug\DailyAudioPlayer.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Dropbox\MCAST\Second Year\First Semester\HCI\Assignment\HCI Christian Galea 438795M\AudioPlayer\DailyAudioPlayer\DailyAudioPlayer\obj\Debug\Control.baml
+C:\Users\Chris\Dropbox\MCAST\Second Year\First Semester\HCI\Assignment\HCI Christian Galea 438795M\AudioPlayer\DailyAudioPlayer\DailyAudioPlayer\obj\Debug\Control.g.cs
+C:\Users\Chris\Dropbox\MCAST\Second Year\First Semester\HCI\Assignment\HCI Christian Galea 438795M\AudioPlayer\DailyAudioPlayer\DailyAudioPlayer\obj\Debug\MainWindow.g.cs
+C:\Users\Chris\Dropbox\MCAST\Second Year\First Semester\HCI\Assignment\HCI Christian Galea 438795M\AudioPlayer\DailyAudioPlayer\DailyAudioPlayer\obj\Debug\App.g.cs
+C:\Users\Chris\Dropbox\MCAST\Second Year\First Semester\HCI\Assignment\HCI Christian Galea 438795M\AudioPlayer\DailyAudioPlayer\DailyAudioPlayer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Chris\Dropbox\MCAST\Second Year\First Semester\HCI\Assignment\HCI Christian Galea 438795M\AudioPlayer\DailyAudioPlayer\DailyAudioPlayer\obj\Debug\DailyAudioPlayer_MarkupCompile.cache
+C:\Users\Chris\Dropbox\MCAST\Second Year\First Semester\HCI\Assignment\HCI Christian Galea 438795M\AudioPlayer\DailyAudioPlayer\DailyAudioPlayer\obj\Debug\DailyAudioPlayer_MarkupCompile.lref
+C:\Users\Chris\Dropbox\MCAST\Second Year\First Semester\HCI\Assignment\HCI Christian Galea 438795M\AudioPlayer\DailyAudioPlayer\DailyAudioPlayer\obj\Debug\MainWindow.baml
+C:\Users\Chris\Dropbox\MCAST\Second Year\First Semester\HCI\Assignment\HCI Christian Galea 438795M\AudioPlayer\DailyAudioPlayer\DailyAudioPlayer\obj\Debug\DailyAudioPlayer.g.resources
+C:\Users\Chris\Dropbox\MCAST\Second Year\First Semester\HCI\Assignment\HCI Christian Galea 438795M\AudioPlayer\DailyAudioPlayer\DailyAudioPlayer\obj\Debug\DailyAudioPlayer.Properties.Resources.resources
+C:\Users\Chris\Dropbox\MCAST\Second Year\First Semester\HCI\Assignment\HCI Christian Galea 438795M\AudioPlayer\DailyAudioPlayer\DailyAudioPlayer\obj\Debug\DailyAudioPlayer.csproj.GenerateResource.Cache

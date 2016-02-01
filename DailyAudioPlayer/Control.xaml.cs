@@ -111,6 +111,11 @@ namespace DailyAudioPlayer
                 lblTimer.Content = "No file selected...";
         }
 
+        private void MenuItem_Click(object sender, RoutedEventArgs e)
+        {
+            Application.Current.Shutdown();
+        }
+
     }
 }
 

@@ -38,14 +38,16 @@
                      SpellCheck.IsEnabled="True"
                      AcceptsReturn="True"
                      AcceptsTab="True"
-                     BorderThickness="0 2 0 0"/>           
+                     BorderThickness="0 2 0 0"
+                     ScrollViewer.CanContentScroll="True"
+                     ScrollViewer.VerticalScrollBarVisibility="Auto"/>           
         </DockPanel>
         
         <GridSplitter Grid.Row="1"
                       Grid.RowSpan="3"
                       Grid.Column="1"
-                      Width="8"
-                      Background="Black"
+                      Width="2"
+                      Background="Gray"
                       ResizeBehavior="PreviousAndNext"
                       ResizeDirection="Columns"/>
 
